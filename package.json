@@ -1,0 +1,46 @@
+{
+  "name": "medflow-hms",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "description": "MedFlow HMS - Enterprise-grade Hospital Management System built with React 18, TypeScript, Vite, and Tailwind CSS. Features 8 user roles, 14+ modules, dark/light themes, and premium SaaS UI.",
+  "author": "Siva",
+  "license": "MIT",
+  "keywords": [
+    "hospital-management",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "enterprise",
+    "saas",
+    "healthcare",
+    "dashboard",
+    "vite"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "axios": "^1.19.0",
+    "clsx": "^2.0.0",
+    "framer-motion": "^10.16.0",
+    "lucide-react": "^0.294.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.0",
+    "recharts": "^2.10.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.2.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6",
+    "typescript": "^5.3.2",
+    "vite": "^5.0.0"
+  }
+}

@@ -21,95 +21,6 @@ A production-grade, AI-enhanced Hospital Management System built with **React 18
 
 <br />
 
-## 📸 Application Screenshots
-
-### 🔐 Login Page
-
-![Login Page](screenshots/Login%20Page.png)
-
----
-
-### 📊 Admin Dashboard
-
-![Admin Dashboard](screenshots/Admin%20Dashboard.png)
-
----
-
-### 👥 Patient Management
-
-![Patient Management](screenshots/Patient%20Management.png)
-
----
-
-### 🩺 Doctors
-
-![Doctors](screenshots/Doctors.png)
-
----
-
-### 📅 Appointments
-
-![Appointments](screenshots/Appointment.png)
-
----
-
-### 🗓️ Appointment Calendar
-
-![Appointment Calendar](screenshots/Appointment%20Calendar.png)
-
----
-
-### 👩‍⚕️ Nurse Station
-
-![Nurse Station](screenshots/Nurse%20Station.png)
-
----
-
-### 🔬 Laboratory
-
-![Laboratory](screenshots/Laboratory.png)
-
----
-
-### 💊 Pharmacy Inventory
-
-![Pharmacy Inventory](screenshots/Pharmacy%20Inventory.png)
-
----
-
-### 💰 Billing & Invoices
-
-![Billing & Invoices](screenshots/Billing%20%26%20Invoices.png)
-
----
-
-### 📈 Reports & Analytics
-
-![Reports & Analytics](screenshots/Reports%20%26%20Analytics.png)
-
----
-
-### 👨‍💼 Staff Management
-
-![Staff Management](screenshots/Staff%20Management.png)
-
----
-
-### 🏥 Ward Management
-
-![Ward Management](screenshots/Ward%20Management.png)
-
----
-
-### 🔔 Notifications
-
-![Notifications](screenshots/Notifications.png)
-
----
-
-### ⚙️ Settings
-
-![Settings](screenshots/Settings.png)
 
 </div>
 
@@ -205,6 +116,96 @@ src/
 | Lighthouse Score | 95+ |
 
 ---
+## 📸 Application Screenshots
+
+### 🔐 Login Page
+
+![Login Page](screenshots/Login%20Page.png)
+
+---
+
+### 📊 Admin Dashboard
+
+![Admin Dashboard](screenshots/Admin%20Dashboard.png)
+
+---
+
+### 👥 Patient Management
+
+![Patient Management](screenshots/Patient%20Management.png)
+
+---
+
+### 🩺 Doctors
+
+![Doctors](screenshots/Doctors.png)
+
+---
+
+### 📅 Appointments
+
+![Appointments](screenshots/Appointment.png)
+
+---
+
+### 🗓️ Appointment Calendar
+
+![Appointment Calendar](screenshots/Appointment%20Calendar.png)
+
+---
+
+### 👩‍⚕️ Nurse Station
+
+![Nurse Station](screenshots/Nurse%20Station.png)
+
+---
+
+### 🔬 Laboratory
+
+![Laboratory](screenshots/Laboratory.png)
+
+---
+
+### 💊 Pharmacy Inventory
+
+![Pharmacy Inventory](screenshots/Pharmacy%20Inventory.png)
+
+---
+
+### 💰 Billing & Invoices
+
+![Billing & Invoices](screenshots/Billing%20%26%20Invoices.png)
+
+---
+
+### 📈 Reports & Analytics
+
+![Reports & Analytics](screenshots/Reports%20%26%20Analytics.png)
+
+---
+
+### 👨‍💼 Staff Management
+
+![Staff Management](screenshots/Staff%20Management.png)
+
+---
+
+### 🏥 Ward Management
+
+![Ward Management](screenshots/Ward%20Management.png)
+
+---
+
+### 🔔 Notifications
+
+![Notifications](screenshots/Notifications.png)
+
+---
+
+### ⚙️ Settings
+
+![Settings](screenshots/Settings.png)
+
 
 ## 🔑 Demo Accounts
 
